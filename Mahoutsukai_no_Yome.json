@@ -5,14 +5,7 @@
   "author": "Kore Yamazaki",
   "cover": "https://mangadex.org/covers/195023bf-cf9a-4772-94ef-09dd6eddea84/2247a839-758e-4fd5-b179-cbea596044fb.jpg",
   "chapters": {
-    "116.2": {
-      "title": "",
-      "last_updated": "1763694000",
-      "groups": {
-        "": "/proxy/api/imgchest/chapter/xny88q3gwyb"
-      }
-    },
-    "096.1": {
+    "96.1": {
       "title": "The show must go on. II",
       "last_updated": "",
       "groups": {
@@ -24,6 +17,20 @@
       "last_updated": "1762484400",
       "groups": {
         "": "/proxy/api/imgchest/chapter/o24aoa3weyl"
+      }
+    },
+    "116.2": {
+      "title": "",
+      "last_updated": "1763694000",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/xny88q3gwyb"
+      }
+    },
+    "117.1": {
+      "title": "One Hand Washes the Other.",
+      "last_updated": "1764903600",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/bp45e2pq245"
       }
     }
   }
