@@ -2,250 +2,261 @@
   "artist": "Koré Yamazaki",
   "author": "Koré Yamazaki",
   "chapters": {
+    "106": {
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9rydo29ew7k"
+      },
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "22"
+    },
+    "107": {
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45eovn245"
+      },
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "22"
+    },
+    "108": {
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/na7kqkpnq78"
+      },
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "22"
+    },
+    "109": {
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/bp45eovj245"
+      },
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "22"
+    },
+    "110": {
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/agyvanpg9y8"
+      },
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "22"
+    },
+    "111": {
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny886n9oyb"
+      },
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "23"
+    },
+    "112": {
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg733oa8z7r"
+      },
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "23"
+    },
+    "113": {
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyeolkz34d"
+      },
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "23"
+    },
+    "114": {
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg733oa6z7r"
+      },
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "23"
+    },
+    "116": {
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/92495kn92yn"
+      },
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "24"
+    },
+    "117": {
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny886nroyb"
+      },
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "24"
+    },
+    "118": {
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/ej7mrepvb4d"
+      },
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "24"
+    },
+    "119": {
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/m9yxlnpq3yq"
+      },
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "24"
+    },
+    "120": {
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/a846zon9wyx"
+      },
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "24"
+    },
+    "121": {
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/9rydo29nw7k"
+      },
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "25"
+    },
     "96.1": {
       "groups": {
-        "Official": "/proxy/api/imgchest/chapter/dl7pwnpzjyo"
+        "Official": "/proxy/api/imgchest/chapter/vj4jjmp6248"
       },
-      "last_updated": "1778285038",
-      "title": "The show must go on. II"
+      "last_updated": "1778286549",
+      "title": "The show must go on. II",
+      "volume": "20"
+    },
+    "98.1": {
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/md7o3bpvd7p"
+      },
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "20"
     },
     "106.1": {
       "groups": {
-        "Official": "/proxy/api/imgchest/chapter/6eyrz99bx7p"
+        "Official": "/proxy/api/imgchest/chapter/6eyrznk6e7p"
       },
-      "last_updated": "1777829729",
-      "title": "misery makes strange bedfellows."
-    },
-    "106.2": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ljyqexxbdy2"
-      },
-      "last_updated": "1777829724",
-      "title": ""
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "22"
     },
     "107.1": {
       "groups": {
-        "Official": "/proxy/api/imgchest/chapter/lqyeo22rm4d"
+        "Official": "/proxy/api/imgchest/chapter/9p4nmzo6zyn"
       },
-      "last_updated": "1777829739",
-      "title": "misery makes strange bedfellows. II"
-    },
-    "107.2": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9rydommda7k"
-      },
-      "last_updated": "1777829726",
-      "title": ""
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "22"
     },
     "108.1": {
       "groups": {
-        "Official": "/proxy/api/imgchest/chapter/a846zw52zyx"
+        "Official": "/proxy/api/imgchest/chapter/qb4zqp2l34j"
       },
-      "last_updated": "1777833951",
-      "title": "First catch your hare."
-    },
-    "108.2": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9p4nmwwabyn"
-      },
-      "last_updated": "1777829794",
-      "title": ""
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "22"
     },
     "109.1": {
       "groups": {
-        "Official": "/proxy/api/imgchest/chapter/lqyeo2gbm4d"
+        "Official": "/proxy/api/imgchest/chapter/wl7ldwp6pyx"
       },
-      "last_updated": "1777833923",
-      "title": "Time will tell. I"
-    },
-    "109.2": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/bp45epprn45"
-      },
-      "last_updated": "1777829759",
-      "title": ""
-    },
-    "109.3": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/pg733g5vg7r"
-      },
-      "last_updated": "1777833913",
-      "title": ""
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "22"
     },
     "110.1": {
       "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qb4zqe8o54j"
+        "Official": "/proxy/api/imgchest/chapter/qb4zqp2r34j"
       },
       "last_updated": "1777833924",
-      "title": "Time will tell. II"
-    },
-    "110.2": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/agyvaq9n9y8"
-      },
-      "last_updated": "1777832653",
-      "title": ""
-    },
-    "110.3": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ej7mrwwp94d"
-      },
-      "last_updated": "1777829843",
-      "title": ""
+      "title": "Time will tell. II",
+      "volume": "22"
     },
     "111.1": {
       "groups": {
-        "Official": "/proxy/api/imgchest/chapter/lqyeo22km4d"
+        "Official": "/proxy/api/imgchest/chapter/qe4gkq98r7j"
       },
-      "last_updated": "1777829862",
-      "title": "Time will tell. III"
-    },
-    "111.2": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/qe4gkjj9q7j"
-      },
-      "last_updated": "1777829877",
-      "title": ""
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "23"
     },
     "112.1": {
       "groups": {
-        "Official": "/proxy/api/imgchest/chapter/xny88vvn2yb"
+        "Official": "/proxy/api/imgchest/chapter/5xy2mo5gj7l"
       },
       "last_updated": "1777829882",
-      "title": "Today you, tomorrow me. I"
-    },
-    "112.2": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/o24aoqq9dyl"
-      },
-      "last_updated": "1777829897",
-      "title": ""
-    },
-    "112.3": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/a846zwwnzyx"
-      },
-      "last_updated": "1777829905",
-      "title": ""
+      "title": "Today you, tomorrow me. I",
+      "volume": "23"
     },
     "113.1": {
       "groups": {
-        "Official": "/proxy/api/imgchest/chapter/a846zw5owyx"
+        "Official": "/proxy/api/imgchest/chapter/ljyqekp6oy2"
       },
-      "last_updated": "1777832642",
-      "title": "Today you, tomorrow me. II"
-    },
-    "113.2": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9p4nmwwobyn"
-      },
-      "last_updated": "1777829929",
-      "title": ""
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "23"
     },
     "114.1": {
       "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9p4nmwjzzyn"
+        "Official": "/proxy/api/imgchest/chapter/vj4jjmpn248"
       },
-      "last_updated": "1777832655",
-      "title": "Tomorrow never comes. I"
-    },
-    "114.2": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/92495wpk2yn"
-      },
-      "last_updated": "1777832655",
-      "title": ""
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "23"
     },
     "116.1": {
       "groups": {
-        "Official": "/proxy/api/imgchest/chapter/m9yxlr8n3yq"
+        "Official": "/proxy/api/imgchest/chapter/n87w2np8z7x"
       },
       "last_updated": "1777832656",
-      "title": "Tomorrow never comes. III"
-    },
-    "116.2": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/dl7pwedn6yo"
-      },
-      "last_updated": "1777832663",
-      "title": ""
+      "title": "Tomorrow never comes. III",
+      "volume": "24"
     },
     "117.1": {
       "groups": {
-        "Official": "/proxy/api/imgchest/chapter/6eyrz9m5g7p"
+        "Official": "/proxy/api/imgchest/chapter/o24ao69m3yl"
       },
       "last_updated": "1777832687",
-      "title": "One Hand Washes the Other."
-    },
-    "117.2": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/vj4jjkgm248"
-      },
-      "last_updated": "1777832674",
-      "title": ""
+      "title": "One Hand Washes the Other.",
+      "volume": "24"
     },
     "118.1": {
       "groups": {
-        "Official": "/proxy/api/imgchest/chapter/ljyqexrkoy2"
+        "Official": "/proxy/api/imgchest/chapter/agyvanpl9y8"
       },
-      "last_updated": "1777832673",
-      "title": "You can take a horse to the water, but you can't make him drink."
-    },
-    "118.2": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/wl7ldg2wqyx"
-      },
-      "last_updated": "1777832674",
-      "title": ""
-    },
-    "118.3": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9rydom6nl7k"
-      },
-      "last_updated": "1777832683",
-      "title": ""
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "24"
     },
     "119.1": {
       "groups": {
-        "Official": "/proxy/api/imgchest/chapter/5xy2maa6z7l"
+        "Official": "/proxy/api/imgchest/chapter/o24ao69d3yl"
       },
       "last_updated": "1777830150",
-      "title": "You can take a horse to the water, but you can't make him drink. II"
-    },
-    "119.2": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/wl7ldggb3yx"
-      },
-      "last_updated": "1777830177",
-      "title": ""
+      "title": "You can take a horse to the water, but you can't make him drink. II",
+      "volume": "24"
     },
     "120.1": {
       "groups": {
-        "Official": "/proxy/api/imgchest/chapter/5xy2maa637l"
+        "Official": "/proxy/api/imgchest/chapter/ne7bo693ny5"
       },
-      "last_updated": "1777830169",
-      "title": "You can take a horse to the water, but you can't make him drink. II"
-    },
-    "120.2": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/9rydommb67k"
-      },
-      "last_updated": "1777830214",
-      "title": ""
+      "last_updated": "1778286549",
+      "title": "",
+      "volume": "24"
     },
     "121.1": {
       "groups": {
-        "Official": "/proxy/api/imgchest/chapter/m9yxlnpv6yq"
+        "Official": "/proxy/api/imgchest/chapter/lqyeolkw34d"
       },
-      "last_updated": "1777604100",
-      "title": "Every cloud has a silver lining."
-    },
-    "121.2": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/na7kqkv6w78"
-      },
-      "last_updated": "1778208900",
-      "title": ""
+      "last_updated": "1778286549",
+      "title": "Every cloud has a silver lining.",
+      "volume": "25"
     }
   },
   "cover": "https://mangadex.org/covers/195023bf-cf9a-4772-94ef-09dd6eddea84/2247a839-758e-4fd5-b179-cbea596044fb.jpg",
