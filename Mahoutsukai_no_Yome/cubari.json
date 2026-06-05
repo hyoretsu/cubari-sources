@@ -146,14 +146,6 @@
       "title": "",
       "volume": "23"
     },
-    "112.3": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/6eyrznk5e7p"
-      },
-      "last_updated": "1780677182",
-      "title": "",
-      "volume": "23"
-    },
     "113.1": {
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/ljyqekp6oy2"
@@ -162,28 +154,12 @@
       "title": "Today you, tomorrow me. II",
       "volume": "23"
     },
-    "113.2": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/lqyeolkz34d"
-      },
-      "last_updated": "1780677182",
-      "title": "",
-      "volume": "23"
-    },
     "114.1": {
       "groups": {
         "Official": "/proxy/api/imgchest/chapter/vj4jjmpn248"
       },
       "last_updated": "1754017200",
       "title": "Tomorrow never comes. I",
-      "volume": "23"
-    },
-    "114.2": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/pg733oa6z7r"
-      },
-      "last_updated": "1780677182",
-      "title": "",
       "volume": "23"
     },
     "115.1": {
@@ -199,38 +175,6 @@
         "Official": "/proxy/api/imgchest/chapter/ljyqbrrdky2"
       },
       "last_updated": "1760670000",
-      "title": "",
-      "volume": "24"
-    },
-    "116.1": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/n87w2np8z7x"
-      },
-      "last_updated": "1780677182",
-      "title": "Tomorrow never comes. III",
-      "volume": "24"
-    },
-    "116.2": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/92495kn92yn"
-      },
-      "last_updated": "1780677182",
-      "title": "",
-      "volume": "24"
-    },
-    "117.1": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/o24ao69m3yl"
-      },
-      "last_updated": "1780677182",
-      "title": "One Hand Washes the Other.",
-      "volume": "24"
-    },
-    "117.2": {
-      "groups": {
-        "Official": "/proxy/api/imgchest/chapter/xny886nroyb"
-      },
-      "last_updated": "1780677182",
       "title": "",
       "volume": "24"
     },
@@ -313,6 +257,62 @@
       "last_updated": "1780628100",
       "title": "",
       "volume": "25"
+    },
+    "112.3": {
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/6eyrznk5e7p"
+      },
+      "last_updated": "1750388400",
+      "title": "",
+      "volume": "23"
+    },
+    "113.2": {
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/lqyeolkz34d"
+      },
+      "last_updated": "1752807600",
+      "title": "",
+      "volume": "23"
+    },
+    "114.2": {
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/pg733oa6z7r"
+      },
+      "last_updated": "1755226800",
+      "title": "",
+      "volume": "23"
+    },
+    "116.1": {
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/n87w2np8z7x"
+      },
+      "last_updated": "1762484400",
+      "title": "Tomorrow never comes. III",
+      "volume": "24"
+    },
+    "116.2": {
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/92495kn92yn"
+      },
+      "last_updated": "1763694000",
+      "title": "",
+      "volume": "24"
+    },
+    "117.1": {
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/o24ao69m3yl"
+      },
+      "last_updated": "1764903600",
+      "title": "One Hand Washes the Other.",
+      "volume": "24"
+    },
+    "117.2": {
+      "groups": {
+        "Official": "/proxy/api/imgchest/chapter/xny886nroyb"
+      },
+      "last_updated": "1766113200",
+      "title": "",
+      "volume": "24"
     }
   },
   "cover": "https://mangadex.org/covers/195023bf-cf9a-4772-94ef-09dd6eddea84/2247a839-758e-4fd5-b179-cbea596044fb.jpg",
