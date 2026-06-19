@@ -1,5 +1,5 @@
 # Format: folder_name|album_url|timestamp|image_count|post_id|volume
-# Generated on: 2026-06-05 16:37:22
+# Generated on: 2026-06-19 14:37:57
 
 Vol 20 Ch 96.1 The show must go on. II|https://imgchest.com/p/vj4jjmp6248|2026-05-09 00:30:36|13|vj4jjmp6248|20
 Vol 20 Ch 98.1 Fish and guests stink after three.|https://imgchest.com/p/md7o3bpvd7p|2026-05-09 00:30:35|13|md7o3bpvd7p|20
@@ -41,3 +41,8 @@ Vol 23 Ch 111.2|https://imgchest.com/p/md7okqqj94p|2026-06-05 16:37:20|17|md7okq
 Vol 22 Ch 110.3|https://imgchest.com/p/na7kgvvwm48|2026-06-05 16:37:20|12|na7kgvvwm48|22
 Vol 24 Ch 115.2|https://imgchest.com/p/ljyqbrrdky2|2026-06-05 16:37:21|18|ljyqbrrdky2|24
 Vol 24 Ch 115.1|https://imgchest.com/p/vj4jzggwe78|2026-06-05 16:37:22|18|vj4jzggwe78|24
+Vol 25 Ch 122.2|https://imgchest.com/p/n87wbpwzx7x|2026-06-19 14:37:54|13|n87wbpwzx7x|25
+Vol 20 Ch 96.2|https://imgchest.com/p/lqyerk9jm4d|2026-06-19 14:37:55|13|lqyerk9jm4d|20
+Vol 20 Ch 97.2|https://imgchest.com/p/qe4g39ovqyj|2026-06-19 14:37:55|11|qe4g39ovqyj|20
+Vol 20 Ch 97.1|https://imgchest.com/p/qb4zb2a654j|2026-06-19 14:37:55|11|qb4zb2a654j|20
+Vol 20 Ch 96.3|https://imgchest.com/p/xny8wnbp2yb|2026-06-19 14:37:57|13|xny8wnbp2yb|20
